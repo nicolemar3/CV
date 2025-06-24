@@ -7,7 +7,7 @@ Questo repository contiene il mio curriculum scritto in LaTeX
 - `LaTeX` (`simplehipstercv` + `moderncv` layout)
 - Compilabile localmente o tramite [Overleaf](https://overleaf.com)
 
-## 📎 File inclusi
+## File inclusi
 - `CV_Nicole_Marchioro.pdf` – versione PDF pronta per la stampa
 - [Template di base usato](https://it.overleaf.com/latex/templates/simple-hipster-cv/cnpkkjdkyhhw)
 
